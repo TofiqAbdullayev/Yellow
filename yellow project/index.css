@@ -1,0 +1,40 @@
+.main{
+    width: 800px;
+    height: 600px;
+    font-size: 23px;
+}
+.header{
+    background-color: yellow;
+    width: inherit;
+    height: 80px;
+}
+.center{
+    width: inherit;
+    height: 423px;
+    margin: 8px 0;
+}
+.nav{
+    background-color: yellow;
+    width: 110px;
+    height: inherit;
+    float: left;
+}
+.article{
+    background-color: yellow;
+    width: 574px;
+    height: inherit;
+    margin: 0 8px;
+    float: left;
+}
+.ads{
+    background-color: yellow;
+    width: 100px;
+    height: inherit;
+    float: left;
+}
+.footer{
+    background-color: yellow;
+    width: inherit;
+    height: 75px;
+    float: left;
+}
